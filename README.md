@@ -108,7 +108,7 @@ price: 17.02
 4. Inside the div element, create an ul element with an id of "addy".
 5. Inside the ul element, create a li element with an id of "street" and insert the text "2800 Woodlawn Dr.<br>Honolulu, HI 96822" as the content for the li tag.
 6. Inside the ul element, create a li element of an id of "map". 
-7. Inside the "map" li element, create an a element (anchor tag) and insert "https://www.google.com/maps?ll=21.223782,-157.899628&z=13&t=m&hl=en&gl=US&mapclient=embed&cid=15585431400080676543" target="_blank" in the href attribute and insert the text "View Map" as th content for the a tag.
+7. Inside the "map" li element, create an a element (anchor tag) and insert "https://www.google.com/maps?ll=21.223782,-157.899628&z=13&t=m&hl=en&gl=US&mapclient=embed&cid=15585431400080676543" target="_blank" in the href attribute and insert the text "View Map" as the content for the a tag.
 
 8. Next, create three li elements with the class of "hours". 
 9. Insert the text "Monday - Saturday" as the content for the first li element.
