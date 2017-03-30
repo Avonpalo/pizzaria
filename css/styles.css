@@ -11,7 +11,7 @@ h1{
 	font-family:'Architects Daughter', cursive;
 	
 }
-
+ 
 .sectionTitle{
 	background-color: yellow;
 }
@@ -22,9 +22,6 @@ h1{
 	margin-top: 20px;
 }
 
-#pizza{
-	background-color: red;
-}
 
 .guide{
 	margin-top: 5px;
@@ -34,9 +31,10 @@ h1{
 /* 	border: 1px solid black; */
 
 
-img{
-	height: 200px;
-	width: 25%;
+.img{
+	width: 100px;
+	height: 100px;
+
 }
 
 /*  CSS Code:
@@ -63,4 +61,3 @@ img{
 	margin-left:20px
 	transform-origin: 50% 100%;
 }
-
